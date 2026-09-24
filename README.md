@@ -13,7 +13,7 @@
 
 ---
 
-## What is HDR/HLG Plotter? (plain English)
+## What is HDR/HLG Plotter?
 
 **HDR/HLG Plotter draws brightness / metadata charts for HDR videos** so you can *see* how bright a title is over time — MaxCLL-style peaks, dynamic metadata, HLG+ curves, Dolby Vision RPU overlays, and more.
 
